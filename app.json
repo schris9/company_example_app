@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "company_example_app",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
